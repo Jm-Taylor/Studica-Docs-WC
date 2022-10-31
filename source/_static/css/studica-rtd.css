@@ -15,6 +15,12 @@
 	margin-top: 0px;
 }
 
+/* Remove Ads */
+div.ethical-sidebar, div.ethical-footer {
+   position: absolute;
+   left: -9999px;
+}
+
 /* width of the side panel */
 .wy-nav-side {
 	width: 320px;
