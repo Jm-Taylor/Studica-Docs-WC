@@ -35,7 +35,8 @@ Tools Required
             :scale: 25%
 
 |
-.. hint:: It is recommended to take all the parts of the BOM out of the box for easy assembly.
+
+.. hint:: It is recommended to take all the parts of the BOM out of the box for easy assembly. 
 
 .. dropdown:: BOM (click to open)
     :animate: fade-in
