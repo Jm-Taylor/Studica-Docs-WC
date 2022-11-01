@@ -14,10 +14,10 @@
 
  Requirements
  ------------
- * `Python 3.9 <https://www.python.org/downloads/>`__
+ * [Python 3.9](https://www.python.org/downloads/)
  
  Once Python is installed run the following command  
- `python -m pip install -r source/requirements.txt`
+ `pip install -r source/requirements.txt`
 
  Building
  --------

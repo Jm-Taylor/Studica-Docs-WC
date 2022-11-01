@@ -3,18 +3,27 @@ Welcome
 
 Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST®* Tech Challenge. Here you will find lots of information and tutorials on robotics related to FTC.
 
+.. note:: These docs are a work in progress. :material-outlined:`mood;2em`
+
 .. grid:: 2
    :gutter: 3
    :margin: 2
 
    .. grid-item-card:: 
-      :columns: 12
       :link: docs/Rookies-Start-Here/index
       :link-type: doc
 
       :material-outlined:`play_arrow;2em` Rookies Start Here 
       ^^^
       Rookies that are new to FTC should choose this section to get started. 
+
+   .. grid-item-card:: 
+      :link: https://ftc-docs.firstinspires.org/
+      :link-type: url
+
+      :material-outlined:`verified;2em` Official Docs 
+      ^^^
+      Link to the official docs from *FIRST®*
    
    .. grid-item-card::
       :link: docs/Building-System/index
@@ -149,4 +158,4 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
 License
 -------
 
-This documentation is licensed under Creative Commons Attribution 4.0, with assets such as the *FIRST®* logo under the trademark and copyright of `FIRST <https://www.firstinspires.org/>`__ and *Studica®* logo under the trademark and copyright of `Studica <https://www.studica.ca/en/>`__.
+This documentation is licensed under Creative Commons Attribution 4.0, with assets such as the *FIRST®* logo under the trademark and copyright of `FIRST <https://www.firstinspires.org/>`__ and *Studica®* logo under the trademark and copyright of `Studica <https://www.studica.ca/en/>`__. All other trademarks cited herein are the property of their respective owners.
