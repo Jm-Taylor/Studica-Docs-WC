@@ -1,3 +1,6 @@
+```
+[![CC BY 4.0][cc-by-shield]][cc-by]
+```
 # Studica-Docs-WC
  Work Cell for SR FTC Docs
 
