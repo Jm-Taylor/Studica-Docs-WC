@@ -47,6 +47,12 @@ div.ethical-sidebar, div.ethical-footer {
    color: #F57E25;
 }
 
+/* Card header color */
+.sd-card-header {
+	color: #F57E25 !important;
+	background-color: #231F20 !important;
+}
+
 /* Get rid of that ugly yellow highlight color and replace with something more appealing to the eye */
 .highlight .hll {
    background-color: #C3E7FF;

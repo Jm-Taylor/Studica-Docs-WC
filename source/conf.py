@@ -34,7 +34,9 @@ release = '0.0.1'
 extensions = [
     'sphinx_tabs.tabs',
     'sphinx_rtd_theme',
-    'notfound.extension'
+    'notfound.extension',
+    'sphinx_design',
+    'sphinx-prompt'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
