@@ -53,13 +53,13 @@ Tools Required
         * - Rubber Grommet
           - 76504
           - 9
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/wire-grommet.png
               :align: center
               :scale: 10%
         * - U-Channel Bumper
           - 76505
           - 4
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/bumper.png
               :align: center
               :scale: 10%
         * - NeveRest Classic 40
@@ -71,85 +71,85 @@ Tools Required
         * - 432mm U-Channel
           - 76010
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/432-u-channel.png
               :align: center
               :scale: 10%
         * - 192mm U-Channel
           - 76015
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/192-u-channel.png
               :align: center
               :scale: 10%
         * - 192mm x 96mm Flat Bracket
           - 76066
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/192-96-flat.png
               :align: center
               :scale: 10%
         * - Battery Clip
           - 76088
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/battery-clip.png
               :align: center
               :scale: 10%
         * - Motor Mount Plate
           - 76140
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/motor-mount-plate.png
               :align: center
               :scale: 10%
         * - End Piece Plate
           - 76015
           - 4
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/end-plate.png
               :align: center
               :scale: 10%
         * - 6mm x 96mm D-Shaft
           - 76161
           - 4
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/96-d-shaft.png
               :align: center
               :scale: 10%
         * - 25mm Male to Female Standoff
           - 76184
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/mf-standoff.png
               :align: center
               :scale: 10%
         * - 25mm Standoff
           - 76182
           - 5
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/25-standoff.png
               :align: center
               :scale: 10%
         * - M3 x 10mm SHCS
           - 76201
           - 54
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/m3-10-shcs.png
               :align: center
               :scale: 10%
         * - M3 x 12mm SHCS
           - 76202
           - 14
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/m3-12-shcs.png
               :align: center
               :scale: 10%
         * - M3 x 20mm SHCS
           - 76209
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/m3-20-shcs.png
               :align: center
               :scale: 10%
         * - M3 x 10mm BHCS
           - 76203
           - 28
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/m3-10-bhcs.png
               :align: center
               :scale: 10%
         * - M3 Kep Nut
           - 76204
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/m3-kep-nut.png
               :align: center
               :scale: 10%
         * - 30 Tooth Bevel Gear
