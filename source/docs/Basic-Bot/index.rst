@@ -5,7 +5,7 @@ The basic bot is a simple robot that can built from the Studica Robotics FTC Sta
 
 .. figure:: images/Full-Robot-Basic-Bot.png
     :align: center
-    :scale: 25%
+    :width: 50%
 
 .. grid:: 3
     :gutter: 3
@@ -20,7 +20,7 @@ The basic bot is a simple robot that can built from the Studica Robotics FTC Sta
 
         .. figure:: images/Chassis-Basic-Bot.png
             :align: center
-            :scale: 10%
+            :width: 75%
 
     .. grid-item-card:: 
         :link: OMS/index
@@ -31,7 +31,7 @@ The basic bot is a simple robot that can built from the Studica Robotics FTC Sta
 
         .. figure:: images/OMS.png 
             :align: center
-            :scale: 10%
+            :width: 65%
 
     .. grid-item-card:: 
         :link: Programming/index
@@ -42,7 +42,7 @@ The basic bot is a simple robot that can built from the Studica Robotics FTC Sta
 
         .. figure:: images/Programming.png 
             :align: center
-            :scale: 40%
+            :width: 60%
 
 .. toctree::
     :caption: Chassis Basic Bot Guide

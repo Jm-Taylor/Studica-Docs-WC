@@ -15,19 +15,19 @@ Step 1: Start Build
           - 2
           - .. image:: images/bom/192-u-channel.png
               :align: center
-              :scale: 10%
+              :width: 25%
         * - End Piece Plate
           - 76015
           - 4
           - .. image:: images/bom/end-plate.png
               :align: center
-              :scale: 10%
+              :width: 20%
         * - M3 x 10mm SHCS
           - 76201
           - 16
           - .. image:: images/bom/m3-10-shcs.png
               :align: center
-              :scale: 10%
+              :width: 15%
 
 Instructions
 ------------
@@ -40,3 +40,4 @@ Instructions
 
 .. figure:: images/basicBotChassis_View1.png
     :align: center
+    :width: 70%

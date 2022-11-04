@@ -19,13 +19,13 @@ Step 2
           - 2
           - .. image:: images/bom/432-u-channel.png
               :align: center
-              :scale: 10%
+              :width: 40%
         * - M3 x 10mm BHCS
           - 76203
           - 16
           - .. image:: images/bom/m3-10-bhcs.png
               :align: center
-              :scale: 10%
+              :width: 10%
 
 Instructions
 ------------

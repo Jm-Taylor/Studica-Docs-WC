@@ -12,38 +12,38 @@ Step 3
           - Image
         * - Completed Assembly from Part 2
           - 
-          - 2
+          - 1
           - 
         * - Enhanced Wheel Hub Kit
           - 76291
           - 2
           - .. image:: images/bom/enhanced-hub.png
               :align: center
-              :scale: 15%
+              :width: 15%
         * - 14mm Flange Bearing
           - 76302
           - 4
           - .. image:: images/bom/14-bearing.png
               :align: center
-              :scale: 10%
+              :width: 10%
         * - Collar Clamp
           - 76320
           - 2
           - .. image:: images/bom/collar-clamp.png
               :align: center
-              :scale: 15%
+              :width: 10%
         * - 2mm Shaft Spacer
           - 76306
           - 4
           - .. image:: images/bom/2-spacer.png
               :align: center
-              :scale: 10%
+              :width: 10%
         * - 6mm x 96mm D-Shaft
           - 76161
           - 2
           - .. image:: images/bom/96-d-shaft.png
               :align: center
-              :scale: 10% 
+              :width: 40% 
 
 Instructions
 ------------
