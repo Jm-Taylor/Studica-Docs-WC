@@ -44,3 +44,9 @@ The basic bot is a simple robot that can built from the Studica Robotics FTC Sta
             :align: center
             :scale: 40%
 
+.. toctree::
+    :caption: Chassis Basic Bot Guide
+    :maxdepth: 1
+    :hidden:
+
+    Chassis/index

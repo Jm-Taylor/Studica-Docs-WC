@@ -1,5 +1,3 @@
-:orphan:
-
 Chassis Build Guide
 ===================
 
@@ -155,72 +153,97 @@ Tools Required
         * - 30 Tooth Bevel Gear
           - 76219
           - 4
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/30-tooth-bevel.png
               :align: center
               :scale: 10%
         * - 100mm Drive Wheel
           - 76262
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/drive-wheel.png
               :align: center
-              :scale: 10%
+              :scale: 15%
         * - 100mm Omni Wheel
           - 76260
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/omni-wheel.png
               :align: center
-              :scale: 10%
+              :scale: 15%
         * - Light Weight Shaft Hub
           - 76282
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/light-hub.png
               :align: center
               :scale: 10%
         * - Enhanced Wheel Hub Kit
           - 76291
           - 2
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/enhanced-hub.png
               :align: center
-              :scale: 10%
+              :scale: 15%
         * - 14mm Flange Bearing
           - 76302
           - 8
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/14-bearing.png
               :align: center
               :scale: 10%
         * - Collar Clamp
           - 76320
           - 4
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/collar-clamp.png
               :align: center
-              :scale: 10%
+              :scale: 15%
         * - 2mm Shaft Spacer
           - 76306
           - 12
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/2-spacer.png
               :align: center
               :scale: 10%
         * - XT30 to Tamiya Adapter
           - 70179
           - 1
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/xt30-cable.jpg
               :align: center
-              :scale: 10%
+              :scale: 40%
         * - 12V 3000mAh Battery
           - 39057
           - 1
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/battery.png
               :align: center
               :scale: 10%
         * - Power Switch
           - REV-31-1387
           - 1
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/power-switch.png
               :align: center
               :scale: 10%
         * - Control Hub
           - REV-31-1595
           - 1
-          - .. image:: images/bom/neverest-classic.png
+          - .. image:: images/bom/control-hub.png
               :align: center
               :scale: 10%
+
+.. grid:: 1
+  :gutter: 2
+  :margin: 3
+
+  .. grid-item-card::
+    :link: step1
+    :link-type: doc
+
+    Step 1: Start Build
+    ^^^
+
+    .. figure:: images/basicBotChassis_View21.png
+      :align: center
+      :scale: 50%
+
+.. toctree::
+  :hidden:
+
+  step1
+  step2
+  step3
+  step4
+  step5
+  step6
