@@ -39,10 +39,10 @@ Instructions
 
 .. note:: NEED TO ADD AN IMAGE HERE SHOWING THE HEX KEY GOING THROUGH THE CHANNEL
 
-.. figure:: images/basicBotChassis_View2.png
-    :align: left
-    :scale: 75%
+|pic1| |pic2|
 
-.. figure:: images/basicBotChassis_View3.png
-    :align: right
-    :scale: 80%
+.. |pic1| image:: images/basicBotChassis_View2.png
+    :width: 60%
+
+.. |pic2| image:: images/basicBotChassis_View3.png
+    :width: 39%

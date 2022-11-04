@@ -61,10 +61,10 @@ Instructions
 - Check to ensure you can spin the Enhanced Wheel hub without any issues. If there are issues, loosen the hub or the collar clamp and try again. The hub should be able to spin smoothly. 
 - Repeat the process for the other side of the chassis. There should be two Enhanced Wheel Hubs on the front of the chassis. The Wheel hubs should be on the outside of the chassis.   
 
-.. figure:: images/basicBotChassis_View4.png
-    :align: left
-    :scale: 75%
+|pic1| |pic2|
 
-.. figure:: images/basicBotChassis_View5.png
-    :align: right
-    :scale: 80%
+.. |pic1| image:: images/basicBotChassis_View4.png
+    :width: 70%
+
+.. |pic2| image:: images/basicBotChassis_View5.png
+    :width: 29%
