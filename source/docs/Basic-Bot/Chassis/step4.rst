@@ -1,7 +1,7 @@
 Step 4
 ======
 
-.. list-table:: Parts Required for Step 3
+.. list-table:: Parts Required for Step 4
         :widths: 50 25 25 150
         :header-rows: 1
         :align: center
@@ -40,7 +40,7 @@ Step 4
               :width: 40% 
         * - 30 Tooth Bevel Gear
           - 76219
-          - 4
+          - 2
           - .. image:: images/bom/30-tooth-bevel.png
               :align: center
               :width: 15%
