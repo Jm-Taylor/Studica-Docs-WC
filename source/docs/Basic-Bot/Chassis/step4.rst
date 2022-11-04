@@ -73,7 +73,9 @@ Instructions
 .. figure:: images/basicBotChassis_View6.png
     :align: center
     :width: 70%
+
 |
+
 .. figure:: images/basicBotChassis_View7.png
     :align: center 
     :width: 70%
