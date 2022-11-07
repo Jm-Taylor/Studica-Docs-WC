@@ -1,5 +1,5 @@
-Step 5
-======
+Step 5 - Motor Assembly
+=======================
 
 .. list-table:: Parts Required for Step 5
         :widths: 50 25 25 150

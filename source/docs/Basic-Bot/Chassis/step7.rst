@@ -1,5 +1,5 @@
-Step 7
-======
+Step 7 - Securing the Motor Bracket
+===================================
 
 .. list-table:: Parts Required for Step 7
         :widths: 50 25 25 150

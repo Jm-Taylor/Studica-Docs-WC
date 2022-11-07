@@ -1,5 +1,5 @@
-Step 2
-======
+Step 2 - Chassis Frame
+======================
 
 .. list-table:: Parts Required for Step 2
         :widths: 50 25 25 150

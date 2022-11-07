@@ -1,5 +1,5 @@
-Step 8 
-======
+Step 8 - Bumpers
+================
 
 .. list-table:: Parts Required for Step 8
         :widths: 50 25 25 150

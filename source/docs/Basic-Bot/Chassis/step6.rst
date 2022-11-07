@@ -1,5 +1,5 @@
-Step 6
-======
+Step 6 - Inserting Motors
+=========================
 
 .. list-table:: Parts Required for Step 6
         :widths: 50 25 25 150

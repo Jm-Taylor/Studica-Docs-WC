@@ -1,5 +1,5 @@
-Step 3
-======
+Step 3 - Front Idler Shaft
+==========================
 
 .. list-table:: Parts Required for Step 3
         :widths: 50 25 25 150
