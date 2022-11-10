@@ -76,9 +76,6 @@ html_theme_options = {
         'titles_only': True
 }
 
-user_options = [
-    ("warning-is-error", False),
-]
 
 from sphinx.builders.html import StandaloneHTMLBuilder
 StandaloneHTMLBuilder.supported_image_types = [
