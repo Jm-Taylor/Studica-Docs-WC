@@ -1,7 +1,7 @@
 Build Guide
 ===========
 
-The Camp Bot is a simple construction that should take around 10 min to 1 hour based on skill level. 
+The Camp Bot is a simple construction that should take around 10 min to 1 hour, based on skill level. 
 
 Tools Required
 --------------
@@ -57,13 +57,13 @@ Tools Required
         * - Multi-Mode Smart Servo
           - 75002
           - 1
-          - .. image:: ../../Basic-Bot/Chassis/images/bom/neverest-classic.png
+          - .. image:: ../../Basic-Bot/Chassis/images/bom/multi-mode-smart-servo.png
               :align: center
-              :width: 30%
+              :width: 15%
         * - 240mm U-Channel
           - 76014
           - 2
-          - .. image:: ../../Basic-Bot/Chassis/images/bom/neverest-classic.png
+          - .. image:: ../../Basic-Bot/Chassis/images/bom/240-u-channel.png
               :align: center
               :width: 40%
         * - 96mm U-Channel
@@ -75,9 +75,9 @@ Tools Required
         * - L Bracket
           - 76087
           - 1
-          - .. image:: ../../Basic-Bot/Chassis/images/bom/neverest-classic.png
+          - .. image:: ../../Basic-Bot/Chassis/images/bom/l-bracket.png
               :align: center
-              :width: 40%
+              :width: 20%
         * - Servo Mount Offset Plate
           - 76146
           - 1
@@ -87,9 +87,9 @@ Tools Required
         * - Servo Arm
           - 76151
           - 1
-          - .. image:: ../../Basic-Bot/Chassis/images/bom/neverest-classic.png
+          - .. image:: ../../Basic-Bot/Chassis/images/bom/servo-arm.png
               :align: center
-              :width: 40%
+              :width: 20%
         * - Battery Clip
           - 76088
           - 2
@@ -245,4 +245,44 @@ Tools Required
           - 1
           - .. image:: ../../Basic-Bot/Chassis/images/bom/control-hub.png
               :align: center
-              :width: 30%      
+              :width: 30%    
+
+.. grid:: 1
+  :gutter: 2
+  :margin: 3
+
+  .. grid-item-card::
+    :link: step1
+    :link-type: doc
+
+    Step 1: Start Build
+    ^^^
+
+    .. figure:: images/CampBotV2_View26.png
+      :align: center
+      :width: 50%
+
+.. toctree::
+  :hidden:
+
+  step1 
+  step2 
+  step3
+  step4
+  step5
+  step6
+  step7
+  step8
+  step9
+  step10
+  step11
+  step12
+  step13
+  step14
+  step15
+  step16
+  step17
+  step18
+  step19
+  step20
+  step21
