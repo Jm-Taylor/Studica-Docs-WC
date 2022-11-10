@@ -9,13 +9,14 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
    :gutter: 3
    :margin: 2
 
-   .. grid-item-card:: 
-      :link: docs/Rookies-Start-Here/index
-      :link-type: doc
+   .. 
+      .. grid-item-card:: 
+         :link: docs/Rookies-Start-Here/index
+         :link-type: doc
 
-      :material-outlined:`play_arrow;2em` Rookies Start Here 
-      ^^^
-      Rookies that are new to FTC should choose this section to get started. 
+         :material-outlined:`play_arrow;2em` Rookies Start Here 
+         ^^^
+         Rookies that are new to FTC should choose this section to get started. 
 
    .. grid-item-card:: 
       :link: https://ftc-docs.firstinspires.org/
@@ -25,21 +26,23 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
       ^^^
       Link to the official docs from *FIRST®*
    
-   .. grid-item-card::
-      :link: docs/Building-System/index
-      :link-type: doc 
+   ..
+      .. grid-item-card::
+         :link: docs/Building-System/index
+         :link-type: doc 
 
-      :material-outlined:`build;2em` Building System 
-      ^^^
-      All of the gushy Studica Robotics components explained in more detail.
+         :material-outlined:`build;2em` Building System 
+         ^^^
+         All of the gushy Studica Robotics components explained in more detail.
 
-   .. grid-item-card::
-      :link: docs/Electronics-and-Wiring/index
-      :link-type: doc 
+   ..
+      .. grid-item-card::
+         :link: docs/Electronics-and-Wiring/index
+         :link-type: doc 
 
-      :material-outlined:`cable;2em` Electronics and Wiring 
-      ^^^
-      Want to learn about the electronics and how to wire your robot? Well look no further. 
+         :material-outlined:`cable;2em` Electronics and Wiring 
+         ^^^
+         Want to learn about the electronics and how to wire your robot? Well look no further. 
 
    .. grid-item-card::
       :link: docs/Camp-Bot/index
@@ -57,21 +60,23 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
       ^^^
       Looking for a bit more excitement? Get the build and program guides for the basic bot here!
 
-   .. grid-item-card::
-      :link: docs/Mechanisms/index
-      :link-type: doc 
+   ..
+      .. grid-item-card::
+         :link: docs/Mechanisms/index
+         :link-type: doc 
 
-      :material-outlined:`precision_manufacturing;2em` Mechanisms 
-      ^^^
-      All you need to know about different drivetrains, arms, elevators, intakes, claws ... and so on. 
+         :material-outlined:`precision_manufacturing;2em` Mechanisms 
+         ^^^
+         All you need to know about different drivetrains, arms, elevators, intakes, claws ... and so on. 
 
-   .. grid-item-card::
-      :link: docs/Software/index
-      :link-type: doc 
+   ..
+      .. grid-item-card::
+         :link: docs/Software/index
+         :link-type: doc 
 
-      :material-outlined:`terminal;2em` Software 
-      ^^^
-      You can build the mechanism but it won't do anything unless you program it. Learn how to program that arm or claw here. 
+         :material-outlined:`terminal;2em` Software 
+         ^^^
+         You can build the mechanism but it won't do anything unless you program it. Learn how to program that arm or claw here. 
 
    .. grid-item-card:: 
       :link: docs/Contributing/style-guide
@@ -89,27 +94,29 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
       ^^^
       Spotted an issue in these docs, click here!
 
+..
+   .. toctree:: 
+      :caption: Rookies Start Here
+      :maxdepth: 1
+      :hidden:
 
-.. toctree:: 
-   :caption: Rookies Start Here
-   :maxdepth: 1
-   :hidden:
+      docs/Rookies-Start-Here/index
 
-   docs/Rookies-Start-Here/index
+..
+   .. toctree:: 
+      :caption: Building System
+      :maxdepth: 1
+      :hidden:
 
-.. toctree:: 
-   :caption: Building System
-   :maxdepth: 1
-   :hidden:
+      docs/Building-System/index
 
-   docs/Building-System/index
+..
+   .. toctree:: 
+      :caption: Electronics and Wiring
+      :maxdepth: 1
+      :hidden:
 
-.. toctree:: 
-   :caption: Electronics and Wiring
-   :maxdepth: 1
-   :hidden:
-
-   docs/Electronics-and-Wiring/index
+      docs/Electronics-and-Wiring/index
 
 .. toctree:: 
    :caption: Camp Bot
@@ -125,19 +132,21 @@ Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST
 
    docs/Basic-Bot/index
 
-.. toctree:: 
-   :caption: Mechanisms
-   :maxdepth: 1
-   :hidden:
+..
+   .. toctree:: 
+      :caption: Mechanisms
+      :maxdepth: 1
+      :hidden:
 
-   docs/Mechanisms/index
+      docs/Mechanisms/index
 
-.. toctree:: 
-   :caption: Software
-   :maxdepth: 1
-   :hidden:
+..
+   .. toctree:: 
+      :caption: Software
+      :maxdepth: 1
+      :hidden:
 
-   docs/Software/index
+      docs/Software/index
 
 .. toctree::
    :maxdepth: 1
