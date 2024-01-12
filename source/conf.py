@@ -18,9 +18,10 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Studica FTC Docs'
-copyright = '2022, Studica LTD and FIRST® Canada'
-author = 'Studica and FIRST® Canada'
+project = 'Studica Docs'
+copyright = '2023, Studica Limited'
+author = 'Studica'
+html_title = 'Studica VMX Documentation'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
@@ -36,8 +37,13 @@ extensions = [
     'sphinx_rtd_theme',
     'notfound.extension',
     'sphinx_design',
-    'sphinx-prompt'
+    'sphinx-prompt',
+    'sphinx.ext.autosectionlabel',
+    'sphinx_copybutton',
+    'sphinx_search.extension'
 ]
+
+autosectionlabel_prefix_document = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -85,4 +91,8 @@ StandaloneHTMLBuilder.supported_image_types = [
 ]
 
 def setup(app):
+    # custom css
     app.add_css_file('css/studica-rtd.css')
+    
+    # Make links open in another tab so docs are still open
+    app.add_js_file('js/studica-rtd.css')

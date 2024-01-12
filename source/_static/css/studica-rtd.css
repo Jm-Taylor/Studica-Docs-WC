@@ -28,24 +28,25 @@
 /* set color of left side bar */
 .wy-nav-side,.wy-side-nav-search,.wy-nav-top {
 	/*background: #0079c1; /*005eb8 */
-   background: #231F20;
+   background: #005eb8;
 }
 
 /* Change caption color to be more legible */
 .wy-menu > .caption > span.caption-text {
-   color: #F57E25;
+   color: #F7E341;
+   font-size: 20px;
 }
 
 /* Change the version color to match caption color */
 .wy-side-nav-search>div.version {
-   color: #F57E25;
+   color: #F7E341;
 }
 
 /* Card header color */
-.sd-card-header {
-	color: #F57E25 !important;
-	background-color: #231F20 !important;
-}
+/*.sd-card-header {
+	color: #FF5D14 !important;
+	background-color: #6ab0de !important;
+}*/
 
 /* Get rid of that ugly yellow highlight color and replace with something more appealing to the eye */
 .highlight .hll {
@@ -61,4 +62,19 @@
 	.wy-nav-side {
 		width: 300px;
 	}
+}
+
+.document {
+	margin-bottom: 4rem;
+}
+
+/* footer */
+footer {
+	position: relative;
+	bottom: 0;
+	left: 10;
+	right: 10;
+	padding-bottom: 2rem;
+	text-align: center;
+	font-size: 80%;
 }

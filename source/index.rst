@@ -1,162 +1,193 @@
-Welcome
-=======
+Studica Robotics Documentation
+==============================
 
-Welcome to the Studica Robotics and *FIRST®* Canada documentation on the *FIRST®* Tech Challenge. Here you will find lots of information and tutorials on robotics related to FTC.
+Welcome to the Studica Robotics documentation on the VMX and robotics build platform.
 
-.. note:: These docs are a work in progress. :material-outlined:`mood;2em`
+.. grid:: 1
+   :gutter: 3
+
+   .. grid-item-card::
+      :class-header: sd-bg-success sd-text-white
+      :link: docs/GettingStarted/index
+      :link-type: doc
+
+      :material-outlined:`play_arrow;2em` Getting Started
+      ^^^
+      New to the VMX start here.
 
 .. grid:: 2
    :gutter: 3
-   :margin: 2
- 
-   .. grid-item-card:: 
-      :link: docs/Rookies-Start-Here/index
+
+   .. grid-item-card::
+      :class-header: sd-bg-primary sd-text-white
+      :link: docs/WPILib/index
       :link-type: doc
 
-      :material-outlined:`play_arrow;2em` Rookies Start Here 
+      :material-outlined:`local_cafe;2em` WPILib for Java and C++
       ^^^
-      Rookies that are new to FTC should choose this section to get started. 
+      Java and C++ programming for the VMX.
 
-   .. grid-item-card:: 
-      :link: https://ftc-docs.firstinspires.org/
-      :link-type: url
+   .. grid-item-card::
+      :class-header: sd-bg-warning sd-text-white
+      :link: docs/LabVIEW/index
+      :link-type: doc
 
-      :material-outlined:`verified;2em` Official Docs 
+      :material-outlined:`theaters;2em` LabVIEW for VMX
       ^^^
-      Link to the official docs from *FIRST®*
+      LabVIEW programming for the VMX.
+
+   .. grid-item-card::
+      :class-header: sd-bg-secondary sd-text-white
+      :link: docs/HAL/index
+      :link-type: doc
+
+      :material-outlined:`engineering;2em` HAL (Python, C++, Java)
+      ^^^
+      Learn how to program direct on the VMX using the built in HAL.
+
+   .. grid-item-card::
+      :class-header: sd-bg-info sd-text-white
+      :link: docs/ROS2/index
+      :link-type: doc
+
+      :material-outlined:`precision_manufacturing;2em` ROS2 for VMX
+      ^^^
+      ROS2 programming for the VMX.
+
+   .. grid-item-card::
+      :class-header: sd-bg-dark sd-text-white
+      :link: docs/VMX/index
+      :link-type: doc
+
+      :material-outlined:`psychology;2em` VMX
+      ^^^
+      VMX documentation.
+
+   .. grid-item-card::
+      :class-header: sd-bg-dark sd-text-white
+      :link: docs/Titan/index
+      :link-type: doc
+
+      :material-outlined:`offline_bolt;2em` Titan
+      ^^^
+      Titan documentation.
    
    .. grid-item-card::
-      :link: docs/Building-System/index
-      :link-type: doc 
-
-      :material-outlined:`build;2em` Building System 
-      ^^^
-      All of the gushy Studica Robotics components explained in more detail.
-
-
-   .. grid-item-card::
-      :link: docs/Electronics-and-Wiring/index
-      :link-type: doc 
-
-      :material-outlined:`cable;2em` Electronics and Wiring 
-      ^^^
-      Want to learn about the electronics and how to wire your robot? Well look no further. 
-
-   .. grid-item-card::
-      :link: docs/Camp-Bot/index
-      :link-type: doc 
-
-      :material-outlined:`cabin;2em` Camp Bot 
-      ^^^
-      Want to build the camp bot and program it? Get the build and program guides here!
-
-   .. grid-item-card::
-      :link: docs/Basic-Bot/index
-      :link-type: doc 
-
-      :material-outlined:`smart_toy;2em` Basic Bot 
-      ^^^
-      Looking for a bit more excitement? Get the build and program guides for the basic bot here!
-
-   .. grid-item-card::
-      :link: docs/Mechanisms/index
-      :link-type: doc 
-
-      :material-outlined:`precision_manufacturing;2em` Mechanisms 
-      ^^^
-      All you need to know about different drivetrains, arms, elevators, intakes, claws ... and so on. 
-
-   .. grid-item-card::
-      :link: docs/Software/index
-      :link-type: doc 
-
-      :material-outlined:`terminal;2em` Software 
-      ^^^
-      You can build the mechanism but it won't do anything unless you program it. Learn how to program that arm or claw here. 
-
-   .. grid-item-card:: 
-      :link: docs/Contributing/style-guide
+      :class-header: sd-bg-info sd-text-white
+      :link: docs/Sensors/index
       :link-type: doc
 
-      :material-outlined:`psychology_alt;2em` Contributing 
+      :material-outlined:`sensors;2em` Sensors
       ^^^
-      Want to contribute to this project? Check out this section. 
+      Sensors that work with the VMX.
+
+   .. grid-item-card::
+      :class-header: sd-bg-info sd-text-white
+      :link: docs/Actuators/index
+      :link-type: doc
+
+      :material-outlined:`directions_bike;2em` Actuators
+      ^^^
+      Motors and other Actuators compatible with the VMX.
+
+   .. grid-item-card::
+      :class-header: sd-bg-primary sd-text-white
+      :link: docs/ControlStation/index
+      :link-type: doc
+
+      :material-outlined:`wifi;2em` Control Station
+      ^^^
+      PC software for enabling and controlling the VMX.
 
    .. grid-item-card:: 
-      :link: https://github.com/studica/studica-docs/issues
+      :class-header: sd-bg-danger sd-text-white
+      :link: https://github.com/studica/studica-docs-worldskills/issues
       :link-type: url
 
       :material-outlined:`flag;2em` Report an Issue 
       ^^^
       Spotted an issue in these docs, click here!
-
-
-.. toctree:: 
-   :caption: Rookies Start Here
+   
+.. toctree::
    :maxdepth: 1
+   :caption: Getting Started
    :hidden:
 
-   docs/Rookies-Start-Here/index
-
-.. toctree:: 
-   :caption: Building System
-   :maxdepth: 1
-   :hidden:
-
-   docs/Building-System/index
-
-.. toctree:: 
-   :caption: Electronics and Wiring
-   :maxdepth: 1
-   :hidden:
-
-   docs/Electronics-and-Wiring/index
-
-.. toctree:: 
-   :caption: Camp Bot
-   :maxdepth: 1
-   :hidden:
-
-   docs/Camp-Bot/index
-
-.. toctree:: 
-   :caption: Basic Bot
-   :maxdepth: 1
-   :hidden:
-
-   docs/Basic-Bot/index
-
-.. toctree:: 
-   :caption: Mechanisms
-   :maxdepth: 1
-   :hidden:
-
-   docs/Mechanisms/index
-
-.. toctree:: 
-   :caption: Software
-   :maxdepth: 1
-   :hidden:
-
-   docs/Software/index
+   docs/GettingStarted/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contributing
+   :caption: WPILib
    :hidden:
-   
-   docs/Contributing/style-guide
-   
+
+   docs/WPILib/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: LabVIEW
+   :hidden:
+
+   docs/LabVIEW/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: VMX HAL
+   :hidden:
+
+   docs/HAL/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: ROS2
+   :hidden:
+
+   docs/ROS2/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: VMX
+   :hidden:
+
+   docs/VMX/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Titan
+   :hidden:
+
+   docs/Titan/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sensors
+   :hidden:
+
+   docs/Sensors/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Actuators
+   :hidden:
+
+   docs/Actuators/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Control Station
+   :hidden:
+
+   docs/ControlStation/index
+
 .. toctree::
    :maxdepth: 1
    :caption: Issues
    :hidden:
    
-   Report an Issue <https://github.com/studica/studica-docs/issues>
+   Report an Issue <https://github.com/studica/studica-docs-worldskills/issues>
    
 |
 
 License
 -------
 
-This documentation is licensed under Creative Commons Attribution 4.0, with assets such as the *FIRST®* logo under the trademark and copyright of `FIRST <https://www.firstinspires.org/>`__ and *Studica®* logo under the trademark and copyright of `Studica <https://www.studica.ca/en/>`__. All other trademarks cited herein are the property of their respective owners.
+This documentation is licensed under Creative Commons Attribution 4.0, with assets such as the *Studica®* logo under the trademark and copyright of `Studica <https://www.studica.ca/en/>`__. WPILib is provided by the WPILib Contributors, their original work can be found at `WPILib docs <https://docs.wpilib.org/en/stable/>`__. All other trademarks cited herein are the property of their respective owners.

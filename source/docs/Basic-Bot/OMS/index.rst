@@ -1,4 +1,0 @@
-:orphan:
-
-OMS Build Guide
-===============

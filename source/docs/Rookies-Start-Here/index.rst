@@ -1,2 +1,0 @@
-Rookies Start Here
-==================
