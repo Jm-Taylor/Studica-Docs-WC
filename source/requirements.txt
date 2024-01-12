@@ -5,3 +5,5 @@ sphinx-notfound-page==0.8
 sphinx-design==0.3.0
 sphinx-prompt==1.5.0
 sphinx-autobuild==2021.3.14
+sphinx-copybutton==0.5.2
+sphinx-search=0.3.0
