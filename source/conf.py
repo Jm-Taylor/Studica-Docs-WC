@@ -19,9 +19,9 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Studica Docs'
-copyright = '2023, Studica Limited'
+copyright = '2024, Studica Limited'
 author = 'Studica'
-html_title = 'Studica VMX Documentation'
+html_title = 'Studica Robotics Documentation'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'

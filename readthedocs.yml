@@ -11,7 +11,7 @@ build:
     python: "3.9"
   apt_packages:
     - librsvg2-bin
-  
+
 formats:
   - pdf
   
