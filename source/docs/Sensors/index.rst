@@ -79,6 +79,22 @@ The VMX Robotics Controller boasts an impressive capacity to interface with a br
             :align: center
             :width: 40%
 
+.. grid:: 1
+    :gutter: 3
+    :margin: 2
+
+    .. grid-item-card::
+        :class-header: sd-bg-success sd-text-white
+        :link: camera-3d
+        :link-type: doc
+
+        3D Depth Camera
+        ^^^
+
+        .. figure:: images/Depth-Camera.svg
+            :align: center
+            :width: 30%
+
 .. toctree::
     :hidden:
 
@@ -88,3 +104,4 @@ The VMX Robotics Controller boasts an impressive capacity to interface with a br
     ultrasonic
     lidar
     sharpir
+    camera-3d
