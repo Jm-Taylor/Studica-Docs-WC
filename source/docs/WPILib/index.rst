@@ -67,6 +67,25 @@ WPILib is provided by the WPILib Contributors for use by teams in FRC®. The VMX
 
         An extremely simple autonomous project walkthrough.
 
+    .. grid-item-card::
+        :class-header: sd-bg-info sd-text-white
+        :link: mockds
+        :link-type: doc
+
+        MockDS
+        ^^^
+
+        An internal driverstation to enable and disable autonomous mode.
+
+    .. grid-item-card:: 
+        :class-header: sd-bg-info sd-text-white
+        :link: https://docs.wpilib.org/en/stable/
+        :link-type: url
+
+        WPILib Offical Documentation
+        ^^^
+        The offical documentation for WPILib. **Note** this documentation uses a newer version of WPILib and some features may not be available in the 2020 version used by the VMX.
+
     .. grid-item-card:: 
         :class-header: sd-bg-info sd-text-white
 
@@ -93,15 +112,6 @@ WPILib is provided by the WPILib Contributors for use by teams in FRC®. The VMX
 
             C++
 
-    .. grid-item-card:: 
-        :class-header: sd-bg-info sd-text-white
-        :link: https://docs.wpilib.org/en/stable/
-        :link-type: url
-
-        WPILib Offical Documentation
-        ^^^
-        The offical documentation for WPILib. **Note** this documentation uses a newer version of WPILib and some features may not be available in the 2020 version used by the VMX.
-
 .. toctree::
     :hidden:
 
@@ -111,4 +121,5 @@ WPILib is provided by the WPILib Contributors for use by teams in FRC®. The VMX
     adding-vendor-libs
     auto-basics
     simpleAuto/index
+    mockds
 

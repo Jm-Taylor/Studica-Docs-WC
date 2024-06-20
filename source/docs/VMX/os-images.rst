@@ -37,7 +37,7 @@ This page contains all the download links to the various images for the VMX.
     
     .. grid-item-card::
         :class-header: sd-bg-warning sd-text-white
-        :link: https://studicalimited.sharepoint.com/:u:/s/SR-Resources/EXEkbXIR5F5LkbLzo_65AOwBPQJLbcRD_SzACW0ndbu32Q?e=NHmhj2&download=1
+        :link: https://studicalimited.sharepoint.com/:u:/s/SR-Resources/EdX_u4QCNc5KnTmIn43w-MkBDEBXdvTjp6OniUFX1reb8Q?e=wFIa06&download=1
         :link-type: url
 
         LabVIEW 
@@ -45,9 +45,9 @@ This page contains all the download links to the various images for the VMX.
 
         Click to download the LabVIEW image for the VMX.
 
-        Version: 2.2.2.6 **WONT WORK ON NEW RASPBERRY PIS**
+        Version: 2.2.4.1
 
-        **A new version will be released end of Q4 2024**
+        **Username:** high-genius **Password:** high-genius
 
     .. grid-item-card::
         :class-header: sd-bg-secondary sd-text-white
