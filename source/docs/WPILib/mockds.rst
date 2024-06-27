@@ -16,7 +16,7 @@ MockDS' lowest level is a C++ real-time thread that runs in the background with 
 
 While a specific user hardware interface, such as a button, is not required, it is recommended. The start button is good for enabling the robot, while the e-stop is good for disabling the robot. The e-stop is preferred as it is latching.
 
-With the layout of MockDS, if the user code gets bogged down or stuck, the robot will stay enabled. **This can be potentially dangerous as there will be no way to disable the robot if this happens.**
+.. important:: With the layout of MockDS, if the user code gets bogged down or stuck, the robot will stay enabled. **This can be potentially dangerous as there will be no way to disable the robot if this happens.**
 
 Adding MockDS
 -------------
@@ -120,3 +120,12 @@ MockDS Code
                         ds.Disable(); // disable the robot
                     }
                 }
+
+Demo Video
+----------
+
+.. raw:: html
+
+    <iframe width="928" height="522" src="https://www.youtube.com/embed/4aTmmyPTCm4" title="MockDS Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+|
