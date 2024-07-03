@@ -17,23 +17,29 @@ This page contains all the download links to the various images for the VMX.
 
         Click to download the default image shipped with the VMX.
 
-        Version: Bullseye (Raspbian OS 32-bit)
+        **Version:** Bullseye (Raspbian OS 32-bit)
 
         **Username:** pi **Password:** raspberry
     
     .. grid-item-card::
         :class-header: sd-bg-info sd-text-white
-        :link: https://studicalimited.sharepoint.com/:u:/s/SR-Resources/EeWxsXAuUJlKo5OBhY8bW68B_uyvnZ2tnNlJKYOMexyGBw?e=V1iUzf&download=1
+        :link: https://studicalimited.sharepoint.com/:u:/s/SR-Resources/EQwRu3CDfj5OpjdC6XNUwFQB8HDwnFssPixJreXBGmxlUw?e=cPI0Za&download=1
         :link-type: url
 
-        Ubuntu Headless (Great for Custom ROS2)
+        Ubuntu Desktop
         ^^^
 
-        Click to download the Ubuntu Server Headless image for the VMX.
+        Click to download the Ubuntu image for the VMX.
 
-        Version: 22.04 (64-bit) **ONLY CPP HAL**
+        **Version:** 22.04 (64-bit)
 
-        **Username:** ubuntu **Password:** password
+        **ROS 2:** Humble Full
+
+        **HAL:** C++ (20+), Java(17+), Python(3.10+)
+
+        **Username:** vmx **Password:** password
+
+        **There is no networking on this image so a direct HDMI, KB & M are required.**
     
     .. grid-item-card::
         :class-header: sd-bg-warning sd-text-white
@@ -45,7 +51,7 @@ This page contains all the download links to the various images for the VMX.
 
         Click to download the LabVIEW image for the VMX.
 
-        Version: 2.2.4.1
+        **Version:** 2.2.4.1
 
         **Username:** high-genius **Password:** high-genius
 
