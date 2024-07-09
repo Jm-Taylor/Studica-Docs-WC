@@ -19,8 +19,8 @@ There are two multi-mode standard sized servos available from Studica, a torque 
         :align: center
 
         * - Function
-          - Torque
-          - Speed
+          - `Torque Part# 75002 <https://www.studica.co/multi-mode-smart-servo>`__
+          - `Speed Part# 75007 <https://www.studica.co/multi-mode-smart-servo-200>`__
         * - Size
           - 40mm x 20.1mm x 38.3mm x 54mm
           - 40mm x 20.1mm x 38.3mm x 54mm
