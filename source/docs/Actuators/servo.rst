@@ -1,7 +1,7 @@
 Servo Motors
 ============
 
-There are two multi-mode standard sized servos available from Studica, a torque and a speed version. Each servo allows for continuous and standard movement of the servo motor. In continuous mode, the servo will spin proportionally based on the input in the CW or CCW direction. In standard mode, the servo will act as a regular servo and have a range of motion of 300°. That is 150° CW and 150° CCW.
+There are two multi-mode standard sized servos available from Studica, a torque and a fast version. Each servo allows for continuous and standard movement of the servo motor. In continuous mode, the servo will spin proportionally based on the input in the CW or CCW direction. In standard mode, the servo will act as a regular servo and have a range of motion of 300°. That is 150° CW and 150° CCW.
 
 .. figure:: images/servo-1.svg
         :align: center
@@ -20,7 +20,7 @@ There are two multi-mode standard sized servos available from Studica, a torque 
 
         * - Function
           - `Torque Part# 75002 <https://www.studica.co/multi-mode-smart-servo>`__
-          - `Speed Part# 75007 <https://www.studica.co/multi-mode-smart-servo-200>`__
+          - `Fast Part# 75007 <https://www.studica.co/multi-mode-smart-servo-200>`__
         * - Size
           - 40mm x 20.1mm x 38.3mm x 54mm
           - 40mm x 20.1mm x 38.3mm x 54mm
@@ -55,34 +55,34 @@ There are two multi-mode standard sized servos available from Studica, a torque 
         :align: center
 
         * - Function
-          - 4.8V Torque
-          - 6.0V Torque
-          - 4.8V Speed
-          - 6.0V Speed
+          - Torque @ 4.8V
+          - Torque @ 6.0V
+          - Fast @ 4.8V
+          - Fast @ 6.0V
         * - Idle Current
           - 5mA
           - 7mA
-          - 
+          - 5mA
           - 7mA
         * - No Load Speed
           - 0.25sec/60°(40 RPM)
           - 0.2sec/60° (50 RPM)
-          - 
+          - 0.057sec/60° (175 RPM)
           - 0.046sec/60° (217RPM)
         * - Running Current
           - 130mA
           - 150mA
-          - 
+          - 120mA
           - 130mA
         * - Stall Torque
           - 180.85oz-in 
           - 300oz-in 
-          - 
+          - 47.2oz-in
           - 69.5oz-in
         * - Stall Current
           - 1500mA
           - 1800mA
-          - 
+          - 2200mA
           - 2700mA
 
     .. list-table:: Control Specs
